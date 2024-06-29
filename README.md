@@ -24,4 +24,4 @@
 8.Visualize the actual heights compared to predictions from both models.
 
 # Acknowledgment:
-  The model prediction presented above was developed through the Women and AI Workshop organized by the Learning Links Foundation.
+  The model presented above was developed through the Women and AI Workshop organized by the Learning Links Foundation.
