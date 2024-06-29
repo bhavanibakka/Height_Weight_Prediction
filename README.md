@@ -1,1 +1,1 @@
-# Height_Weight_Prediction_Using_Linear_-_Polynomial_Regression
+# Height_Weight_Prediction_Using_Linear_and_Polynomial_Regression
