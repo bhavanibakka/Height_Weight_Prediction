@@ -1,4 +1,4 @@
-# Height_Weight_Prediction
+# Height_Prediction_Based_on_Age
 # Description: 
  This project explores the use of machine learning techniques for predicting height based on age. This Model is all about exploring and modeling the relationship between 
  height and age. This model can be used to predict the approximate height of a person based on their age. It provides a basic view on how to perform data exploration, 
